@@ -1,4 +1,4 @@
-# PAD Conflict Analysis - HIBMAT Buea
+# PAD Conflict Analysis - Douala
 
 Turning Public Administration & Decentralization theory into data evidence.
 
@@ -15,5 +15,8 @@ Turning Public Administration & Decentralization theory into data evidence.
 - pad-conflict-analysis.ipynb = analysis
 - pad_conflicts.csv = dataset (upload next)
 
-**Author:** Dean Brent - Comparative Politics to Data Analyst
+## Live App: https: //brent000-001-pad-conflict-eda.streamlit.app
+## Publication: Resolving Conflict in the Workplace- Port Authority of Douala
+
+**Author:** Lawong Brent - Political Scientist and Researcher to Data Analyst
 Yaoundé, Cameroon - 2026
