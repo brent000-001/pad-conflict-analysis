@@ -15,7 +15,7 @@ Turning Public Administration & Decentralization theory into data evidence.
 - pad-conflict-analysis.ipynb = analysis
 - pad_conflicts.csv = dataset (upload next)
 
-## Live App: https: //brent000-001-pad-conflict-eda.streamlit.app
+## 🚀 Live App: https://pad-conflict-eda-fgjg3s3appwxib4wvrpa3c.streamlit.app/
 ## Publication: Resolving Conflict in the Workplace- Port Authority of Douala
 
 **Author:** Lawong Brent - Political Scientist and Researcher to Data Analyst
